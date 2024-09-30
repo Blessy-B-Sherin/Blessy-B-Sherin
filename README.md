@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm <a href="https://www.linkedin.com/in/blessy-b-sherin/">Blessy B Sherin</a> 👋</h1>
+<h1 align="center">Hey there, I'm <a href="https://www.linkedin.com/in/blessy-b-sherin-0799271a7/">Blessy B Sherin</a> 👋</h1>
 
 <!--- Social and Contact Links -->
 <p align="center">
@@ -16,11 +16,11 @@
 <img src="Assets/illustration.svg" align="right" width="180px" alt="Blessy B Sherin's Illustration">
 
 
-- **Frontend Enthusiast** with a passion for crafting clean, responsive, and user-centric interfaces.
-- 🌱 **Always learning**—right now, diving deep into JavaScript, React, and full-stack development.
-- 💬 I love **tech talks**—from design patterns to new JavaScript features. Let’s chat!
-- 💡 Fun fact: **Code + Coffee = Productive Blessy** ☕
-- **Collaborator in waiting**—looking for open-source projects and frontend opportunities to work together.
+- 👨🏻‍💻 **Software Developer** | Focused on delivering high-performance, scalable applications through clean, maintainable code.
+- 🌱 **Continuous expanding my knowledge**
+- 💬 Enthusiastic about engaging in discussions around software engineering, system design, and best practices.
+- 👯 Looking to **collaborate** on innovative projects and contribute to impactful open-source initiatives.
+- 📫 Let's **connect** to explore potential collaborations or discuss the latest trends in software development.
 
 ---
 
