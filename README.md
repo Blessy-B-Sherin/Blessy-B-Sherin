@@ -1,7 +1,7 @@
-<h1 align="center">Hey there, I'm <a href="https://www.linkedin.com/in/blessy-b-sherin-0799271a7/">Blessy B Sherin</a> 👋</h1>
+<h1 align="center" style="font-size: 1.5em; line-height: 1.1;">Hey there, I'm <a href="https://www.linkedin.com/in/blessy-b-sherin-0799271a7/">Blessy B Sherin</a> 👋</h1>
 
 <!--- Social and Contact Links -->
-<p align="center">
+<p align="center" style="font-size: 0.8em; line-height: 1.1;">
   <a href="https://www.linkedin.com/in/blessy-b-sherin-0799271a7/">LinkedIn</a> •
   <a href="https://github.com/Blessy-B-Sherin">GitHub</a> •
   <a href="mailto:blessysherin995@gmail.com">Email</a> •
@@ -13,19 +13,21 @@
 
 ## 👩🏻‍💻 About Me
 
-<img src="Assets/illustration.svg" align="right" width="180px" alt="Blessy B Sherin's Illustration">
+<img src="Assets/illustration.svg" align="right" width="150px" alt="Blessy B Sherin's Illustration">
 
-
-- 👨🏻‍💻 **Software Developer** | Focused on delivering high-performance, scalable applications through clean, maintainable code.
-- 🌱 **Continuous expanding my knowledge**
-- 💬 Enthusiastic about engaging in discussions around software engineering, system design, and best practices.
-- 👯 Looking to **collaborate** on innovative projects and contribute to impactful open-source initiatives.
-- 📫 Let's **connect** to explore potential collaborations or discuss the latest trends in software development.
+<ul style="font-size: 0.8em; line-height: 1.3;">
+  <li>👨🏻‍💻 **Software Developer** | Focused on delivering high-performance, scalable applications through clean, maintainable code.</li>
+  <li>🌱 **Continuous expanding my knowledge**</li>
+  <li>💬 Enthusiastic about engaging in discussions around software engineering, system design, and best practices.</li>
+  <li>👯 Looking to **collaborate** on innovative projects and contribute to impactful open-source initiatives.</li>
+  <li>📫 Let's **connect** to explore potential collaborations or discuss the latest trends in software development.</li>
+</ul>
 
 ---
 
 ## 🛠 Tech Toolbox
 
+<div style="font-size: 0.8em; line-height: 1.3;">
 **Programming Languages:**
 <img src="https://img.shields.io/badge/-JavaScript-EDD222?logo=javascript&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Java-ED8B00?logo=java&logoColor=white&style=flat">&nbsp;
@@ -65,83 +67,33 @@
 <img src="https://img.shields.io/badge/-Chrome%20Extension%20Development-F44336?logo=chrome&logoColor=white&style=flat">
 
 **Soft Skills:**
-<img src="https://img.shields.io/badge/-Problem--Solving-FF9800?style=flat&logo=solved&logoColor=white">  <img src="https://img.shields.io/badge/-Collaboration-2196F3?style=flat&logo=group&logoColor=white">  <img src="https://img.shields.io/badge/-Communication-4CAF50?style=flat&logo=speech&logoColor=white"> 
-
-
----
-<!---
-## 📚 Notable Projects
-
-✨ **[AeroConnect - Airline Management System](https://github.com/Blessy-B-Sherin/AeroConnect)**  
-*A fully-fledged airline management system built with Java, featuring ticket booking and cancellation systems. It comes with a sleek, user-friendly interface and backend database integration for seamless performance.*
-
-✨ **[Weather App - React](https://github.com/Blessy-B-Sherin/React-Weather-App)**  
-*A React-powered real-time weather app fetching data from an API. Clean UI showing city-specific forecasts.*
-
-✨ **[Interactive Portfolio Website](https://blessybsherin.netlify.app/)**  
-*My portfolio website, designed to showcase my skills, projects, and journey. Fully responsive with an eye for detail.*
-
-✨ **[To-Do App with Redux](https://github.com/Blessy-B-Sherin/ToDo-App-Redux)**  
-*A minimal yet powerful to-do list app leveraging React and Redux for state management.*
-
-✨ **[JavaScript Quiz Game](https://github.com/Blessy-B-Sherin/JS-Quiz-App)**  
-*A fun, interactive quiz game developed in vanilla JavaScript. Tracks scores and offers a playful learning interface.*
+<img src="https://img.shields.io/badge/-Problem--Solving-FF9800?style=flat&logo=solved&logoColor=white"> 
+<img src="https://img.shields.io/badge/-Collaboration-2196F3?style=flat&logo=group&logoColor=white"> 
+<img src="https://img.shields.io/badge/-Communication-4CAF50?style=flat&logo=speech&logoColor=white"> 
+</div>
 
 ---
 
-## 💼 Professional Experience
-
-**Software Developer**  
-*Meantr Software* — July 2024 – Present  
-- Developed interactive UIs using React.js and JavaScript (ES6+).  
-- Collaborated with the UX team to refine designs and ensure smooth front-end performance.  
-- Integrated RESTful APIs for seamless data exchange.  
-
-**Junior Java Full Stack Intern**  
-*Inmakes Infotech Pvt. Ltd.* — Feb 2024 – May 2024  
-- Worked on Java-based projects covering everything from Servlets to Spring Boot.  
-- Hands-on experience with MySQL, Hibernate, and Spring Framework to build end-to-end solutions.
-
----
-
-## 🎓 Education
-
-**APJ Abdul Kalam Technological University**  
-Bachelor of Technology, Electronics and Communication Engineering  
-*2019 – 2023* | **CGPA:** 8.03
-
----
-
-## 🏆 Achievements
-
-- Ranked **8594th** in the **PrepSAT Hiring Jobathon** out of 90,678 candidates by PrepInsta.  
-- Achieved **CEFR B2-Upper Intermediate** in EnglishScore Core Skills, showcasing my communication skills.
-
----
--->
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Blessy-B-Sherin&show_icons=true&theme=radical" alt="Blessy B Sherin's GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blessy-B-Sherin&layout=compact&theme=radical" alt="Top Languages" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Blessy-B-Sherin&show_icons=true&theme=radical" alt="Blessy B Sherin's GitHub stats" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blessy-B-Sherin&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Blessy-B-Sherin&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Blessy-B-Sherin&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Blessy-B-Sherin&theme=radical" alt="Repositories Per Language" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Blessy-B-Sherin&theme=radical" alt="Most Commit Language" />
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Blessy-B-Sherin&theme=radical" alt="Repositories Per Language" />
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Blessy-B-Sherin&theme=radical" alt="Most Commit Language" />
 </p>
 
 <p align="center">
   <i>✨ Explore my contributions and projects! ✨</i>
 </p>
 
-
-
-
 ---
 
-<p align="center">🌟 Like my work? Give a star on my repositories, and feel free to reach out for collaboration!</p>
+<p align="center" style="font-size: 0.8em; line-height: 1.1;">🌟 Like my work? Give a star on my repositories, and feel free to reach out for collaboration!</p>
