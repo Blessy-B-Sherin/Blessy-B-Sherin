@@ -38,13 +38,8 @@
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Material--UI-007FFF?logo=mui&logoColor=white&style=flat">&nbsp;
 
-**Backend Development:**
-<img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat">&nbsp;
-
 **Databases:**
 <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat">&nbsp;
 
 **Version Control:**
 <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat">&nbsp;
@@ -52,11 +47,26 @@
 
 **Tools and Platforms:**
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-IntelliJ%20IDEA-000000?logo=intellijidea&logoColor=white&style=flat"> 
+<img src="https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=white&style=flat">
+
+**Design Tools:**
+<img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat">
+
+**Testing:**
+<img src="https://img.shields.io/badge/-TestFlight-2C3E50?logo=apple&logoColor=white&style=flat">
+<img src="https://img.shields.io/badge/-End%20User%20Testing-FF5722?logo=testing&logoColor=white&style=flat">
 
 **Operating Systems:**
 <img src="https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat">&nbsp;
+
+**Technologies:**
+<img src="https://img.shields.io/badge/-RESTful%20API%20Integration-4CAF50?logo=api&logoColor=white&style=flat">
+<img src="https://img.shields.io/badge/-Chrome%20Extension%20Development-F44336?logo=chrome&logoColor=white&style=flat">
+
+**Soft Skills:**
+<img src="https://img.shields.io/badge/-Problem--Solving-FF9800?style=flat&logo=solved&logoColor=white">  <img src="https://img.shields.io/badge/-Collaboration-2196F3?style=flat&logo=group&logoColor=white">  <img src="https://img.shields.io/badge/-Communication-4CAF50?style=flat&logo=speech&logoColor=white"> 
+
 
 ---
 
