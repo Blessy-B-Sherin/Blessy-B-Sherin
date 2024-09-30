@@ -1,7 +1,7 @@
-<h1 align="center" style="font-size: 1.5em; line-height: 1.1;">Hey there, I'm <a href="https://www.linkedin.com/in/blessy-b-sherin-0799271a7/">Blessy B Sherin</a> 👋</h1>
+<h1 align="center">Hey there, I'm <a href="https://www.linkedin.com/in/blessy-b-sherin-0799271a7/">Blessy B Sherin</a> 👋</h1>
 
 <!--- Social and Contact Links -->
-<p align="center" style="font-size: 0.8em; line-height: 1.1;">
+<p align="center">
   <a href="https://www.linkedin.com/in/blessy-b-sherin-0799271a7/">LinkedIn</a> •
   <a href="https://github.com/Blessy-B-Sherin">GitHub</a> •
   <a href="mailto:blessysherin995@gmail.com">Email</a> •
@@ -13,21 +13,19 @@
 
 ## 👩🏻‍💻 About Me
 
-<img src="Assets/illustration.svg" align="right" width="150px" alt="Blessy B Sherin's Illustration">
+<img src="Assets/illustration.svg" align="right" width="180px" alt="Blessy B Sherin's Illustration">
 
-<ul style="font-size: 0.8em; line-height: 1.3;">
-  <li>👨🏻‍💻 **Software Developer** | Focused on delivering high-performance, scalable applications through clean, maintainable code.</li>
-  <li>🌱 **Continuous expanding my knowledge**</li>
-  <li>💬 Enthusiastic about engaging in discussions around software engineering, system design, and best practices.</li>
-  <li>👯 Looking to **collaborate** on innovative projects and contribute to impactful open-source initiatives.</li>
-  <li>📫 Let's **connect** to explore potential collaborations or discuss the latest trends in software development.</li>
-</ul>
+
+- 👨🏻‍💻 **Software Developer** | Focused on delivering high-performance, scalable applications through clean, maintainable code.
+- 🌱 **Continuous expanding my knowledge**
+- 💬 Enthusiastic about engaging in discussions around software engineering, system design, and best practices.
+- 👯 Looking to **collaborate** on innovative projects and contribute to impactful open-source initiatives.
+- 📫 Let's **connect** to explore potential collaborations or discuss the latest trends in software development.
 
 ---
 
 ## 🛠 Tech Toolbox
 
-<div style="font-size: 0.8em; line-height: 1.3;">
 **Programming Languages:**
 <img src="https://img.shields.io/badge/-JavaScript-EDD222?logo=javascript&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Java-ED8B00?logo=java&logoColor=white&style=flat">&nbsp;
@@ -67,33 +65,34 @@
 <img src="https://img.shields.io/badge/-Chrome%20Extension%20Development-F44336?logo=chrome&logoColor=white&style=flat">
 
 **Soft Skills:**
-<img src="https://img.shields.io/badge/-Problem--Solving-FF9800?style=flat&logo=solved&logoColor=white"> 
-<img src="https://img.shields.io/badge/-Collaboration-2196F3?style=flat&logo=group&logoColor=white"> 
-<img src="https://img.shields.io/badge/-Communication-4CAF50?style=flat&logo=speech&logoColor=white"> 
-</div>
+<img src="https://img.shields.io/badge/-Problem--Solving-FF9800?style=flat&logo=solved&logoColor=white">  <img src="https://img.shields.io/badge/-Collaboration-2196F3?style=flat&logo=group&logoColor=white">  <img src="https://img.shields.io/badge/-Communication-4CAF50?style=flat&logo=speech&logoColor=white"> 
+
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Blessy-B-Sherin&show_icons=true&theme=radical" alt="Blessy B Sherin's GitHub stats" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blessy-B-Sherin&layout=compact&theme=radical" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Blessy-B-Sherin&show_icons=true&theme=radical" alt="Blessy B Sherin's GitHub stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blessy-B-Sherin&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Blessy-B-Sherin&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Blessy-B-Sherin&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Blessy-B-Sherin&theme=radical" alt="Repositories Per Language" />
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Blessy-B-Sherin&theme=radical" alt="Most Commit Language" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Blessy-B-Sherin&theme=radical" alt="Repositories Per Language" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Blessy-B-Sherin&theme=radical" alt="Most Commit Language" />
 </p>
 
 <p align="center">
   <i>✨ Explore my contributions and projects! ✨</i>
 </p>
 
+
+
+
 ---
 
-<p align="center" style="font-size: 0.8em; line-height: 1.1;">🌟 Like my work? Give a star on my repositories, and feel free to reach out for collaboration!</p>
+<p align="center">🌟 Like my work? Give a star on my repositories, and feel free to reach out for collaboration!</p>
