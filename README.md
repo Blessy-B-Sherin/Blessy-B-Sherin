@@ -13,8 +13,10 @@
 
 ## 👩🏻‍💻 About Me
 
+<img src="Assets/illustration.svg" align="right" width="180px" alt="Blessy B Sherin's Illustration">
+
+
 - **Frontend Enthusiast** with a passion for crafting clean, responsive, and user-centric interfaces.
-- 💼 **Incoming Software Engineer at IBS Software** (Joining 4th October 2024).
 - 🌱 **Always learning**—right now, diving deep into JavaScript, React, and full-stack development.
 - 💬 I love **tech talks**—from design patterns to new JavaScript features. Let’s chat!
 - 💡 Fun fact: **Code + Coffee = Productive Blessy** ☕
