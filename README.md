@@ -69,7 +69,7 @@
 
 
 ---
-
+<!---
 ## 📚 Notable Projects
 
 ✨ **[AeroConnect - Airline Management System](https://github.com/Blessy-B-Sherin/AeroConnect)**  
@@ -118,7 +118,7 @@ Bachelor of Technology, Electronics and Communication Engineering
 - Achieved **CEFR B2-Upper Intermediate** in EnglishScore Core Skills, showcasing my communication skills.
 
 ---
-
+-->
 ## 📊 GitHub Analytics
 
 <p align="center">
