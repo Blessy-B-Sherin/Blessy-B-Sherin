@@ -23,7 +23,7 @@
 - 📫 Let's **connect** to explore potential collaborations or discuss the latest trends in software development.
 
 ---
-
+<!---
 ## 🛠 Tech Toolbox
 
 **Programming Languages:**
@@ -69,7 +69,7 @@
 
 
 ---
-
+-->
 ## 📊 GitHub Analytics
 
 <p align="center">
